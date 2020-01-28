@@ -2,3 +2,39 @@
   box-sizing: border-box;
 }
 
+.nav-text a{
+  color: #000000;
+}
+.p-2 {
+  padding: 2px;
+}
+.p-5 {
+  padding: 5px;
+}
+.pl-5 {
+  padding-left: 5px;
+}
+.pr-5 {
+  padding-right: 5px;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+
+.nav-main {
+  margin-bottom: 2rem;
+}
+.nav-custom {
+  padding: 0 2rem;
+  
+}
+.perfil-view {
+  margin-top: 14px;
+  
+}
+.avatar-perfil:hover {
+  background: transparent;
+}
+.avatar-perfil i {
+  margin-left: 0;
+}
