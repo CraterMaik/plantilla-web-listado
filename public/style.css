@@ -70,3 +70,19 @@ body {
 .m-5{
   margin-bottom: 50px;
 }
+.mr-2 {
+ margin-right: 20px; 
+}
+.card-badge {
+ position: absolute;
+ z-index: 100;
+ color: #ffc107;
+ top: -21px;
+ right: 0;
+}
+.card .card-content {
+  padding: 10px 15px 0;
+}
+.card-likes {
+  padding: 0 15px 10px;
+}
